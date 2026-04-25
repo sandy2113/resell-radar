@@ -1,0 +1,7 @@
+# Resell Radar — trend pipeline (separate from Node API)
+pytrends>=4.7.0
+psycopg2-binary>=2.9.9
+python-dotenv>=1.0.0
+requests>=2.28.0
+pandas>=1.5.0
+lxml>=4.9.0
